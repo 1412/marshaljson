@@ -1,0 +1,35 @@
+{
+  "name": "marshaljson",
+  "version": "0.1.0",
+  "description": "Serialize circular JSON even containing function",
+  "author": "Decky Fiyemonda",
+  "main": "lib/",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.13.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1412/marshaljson.git"
+  },
+  "keywords": [
+    "JSON",
+    "serialize",
+    "deserialize",
+    "complex",
+    "circular"
+  ],
+  "licenses": [{
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }],
+  "engines": {
+    "node": ">=0.6"
+  },
+  "homepage": "https://github.com/1412/marshaljson",
+  "readmeFilename": "README.md",
+  "gitHead": "3004e3387ee39f30e49cfc8d06d1cb5e5c3fba67",
+}
