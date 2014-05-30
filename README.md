@@ -45,13 +45,12 @@ marshaljson.deserialize(<String>);
 ## Contribution
 
 You are welcome to contribute by writing issues or pull requests.
-It would be nice if you open source your own loaders or webmodules. :)
 
 You are also welcome to correct any spelling mistakes or any language issues, because my english is not perfect...
 
 
 ## License
 
-Copyright (c) 2012-2013 Tobias Koppers
+Copyright (c) 2014 Decky Fx
 
 MIT (http://www.opensource.org/licenses/mit-license.php)
